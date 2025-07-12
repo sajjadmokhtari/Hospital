@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1747737849 source:c:\users\mohammad\documents\hospital\hospital.cpp
+	"Hospital.h"
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1747737849 c:\users\mohammad\documents\hospital\hospital.h
+	<iostream>
+	<vector>
+	<string>
+
+1747737849 source:c:\users\mohammad\documents\hospital\main.cpp
+	"Hospital.h"
+	<iostream>
+	<fstream>
+
+1748001890 source:g:\hospi\hospital\main.cpp
+	"Hospital.h"
+	<iostream>
+	<fstream>
+
+1748001886 g:\hospi\hospital\hospital.h
+	<iostream>
+	<vector>
+	<string>
+
+1749319438 source:g:\hospi\hospital\hospital.cpp
+	"Hospital.h"
+	<fstream>
+	<sstream>
+	<algorithm>
+
